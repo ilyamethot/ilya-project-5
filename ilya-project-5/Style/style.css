@@ -1,0 +1,28 @@
+body {
+  color: #d3c59d;
+  background-color: #e3d6b1;
+}
+
+p,
+ul {
+  font-family: 'Overlock', cursive;
+  color: #000000;
+}
+
+h1 {
+  font-family: 'Bellefair', serif;
+  color: #590a34;
+}
+
+h2 {
+  font-family: 'Overlock', cursive;
+  color: #00686c;
+}
+
+a:link {
+  color: #00b9ad;
+}
+
+a:visited {
+  color: #71033d;
+}
